@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 print('Hello World')
 print('你好！')
 a = 1
